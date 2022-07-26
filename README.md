@@ -1,2 +1,2 @@
-# GIt_Test
+# Git_Test
 The Odin Project Git Test
